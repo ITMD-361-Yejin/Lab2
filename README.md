@@ -1,2 +1,2 @@
 # Lab2
-ITMD361_lab2
+ITMD361_Lab2
